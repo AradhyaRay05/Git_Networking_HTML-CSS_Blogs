@@ -3,7 +3,6 @@
 ---
 
 ## Git Blogs
----
 
 1. [Git for Beginners: Basics and Essential Commands](https://git-for-beginners-aradhyaray.hashnode.dev/git-for-beginners-basics-and-essential-commands)
 
@@ -18,8 +17,6 @@
 ---
 
 ## Network Blogs
-
----
 
 4. [DNS Record Types Explained](https://tcp-udp-http-networking-guide.hashnode.dev/the-phonebook-of-the-internet-dns-record-types)
 
@@ -51,8 +48,6 @@
 
 ## HTML Blogs
 
----
-
 11. [Understanding HTML Tags and Elements](https://beginner-guide-html.hashnode.dev/html-101-understanding-html-tags-and-elements)
 
 ---
@@ -62,7 +57,5 @@
 ---
 
 ## CSS Blogs
-
----
 
 13. [CSS Selectors 101: Targeting Elements with Precision](https://beginner-css.hashnode.dev/css-selectors-101-targeting-elements-with-precision)
